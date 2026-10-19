@@ -59,7 +59,7 @@ In this section, I will document the topics I explore, the challenges I solve, a
 - [ ] Build projects that solve real problems.
 - [ ] Keep track of my progress and lessons learned.
 
-## 🛠️ Skills & Interests
+### 🛠️ Skills & Interests
 
 <p>
   <img src="https://img.shields.io/badge/HTML-Learning-E34F26?style=flat
