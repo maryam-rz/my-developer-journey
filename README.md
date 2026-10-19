@@ -48,4 +48,18 @@ I created this repository to document my journey, celebrate my progress, and kee
 
 I believe learning is a journey, not a competition.
 
-In this section, I will document the topics
+In this section, I will document the topics I explore, the challenges I solve, and the things I discover as I continue growing.
+
+- [x] Create a personal learning repository.
+- [x] Practice creating and closing a GitHub Issue.
+- [x] Create a branch and practice a pull request.
+- [ ] Practice more Git and GitHub workflows.
+- [ ] Write better documentation.
+- [ ] Contribute to open-source projects.
+- [ ] Build projects that solve real problems.
+- [ ] Keep track of my progress and lessons learned.
+
+## 🛠️ Skills & Interests
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-Learning-E34F26?style=flat
