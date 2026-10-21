@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A student, a curious mind, and an aspiring developer.
+  A Student, a curious mind, and an aspiring developer.
   <br />
   Learning new skills, building projects, and growing one step at a time.
 </p>
